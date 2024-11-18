@@ -1,0 +1,11 @@
+{
+    "name": "demo/laravel-package",
+    "description": "This is demo package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Demo\\LaravelPackage\\": "src/"
+        }
+    },
+    "require": {}
+}

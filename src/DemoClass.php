@@ -6,6 +6,6 @@ class DemoClass
 {
     public function sayHello()
     {
-        return "Hello from DemoClass!";
+        return "Hello from DemoClass! updated new code";
     }
 }

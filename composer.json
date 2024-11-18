@@ -1,10 +1,10 @@
 {
-    "name": "demo/laravel-package",
+    "name": "demoramesh/laravel-package",
     "description": "This is demo package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Demo\\LaravelPackage\\": "src/"
+            "DemoRamesh\\LaravelPackage\\": "src/"
         }
     },
     "require": {}
